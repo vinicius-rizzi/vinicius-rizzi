@@ -5,7 +5,7 @@ I'm a Backend Developer at [Followize][followize], with ~3,5 years of experience
 
 You can see more about me on [Linkedin][linkedin].
 
-## 🔧 Currently Stack
+## 🔧 Stack
 
 * PHP / Laravel
 * Angular
